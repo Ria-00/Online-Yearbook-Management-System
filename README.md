@@ -2,8 +2,7 @@
 Project Description:**
 The University Yearbook Management System is a web-based platform designed to streamline the process of creating, managing, and accessing university yearbooks online. Built using Java Servlets for the backend, HTML/CSS for the frontend, and SQL with JDBC for database connectivity, this system offers a user-friendly interface for both administrators and students.
 
-**Features:
-**
+**Features:**
 User Authentication:
 Secure user registration and login functionality for students and administrators.
 
